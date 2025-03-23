@@ -41,11 +41,4 @@ A colorful and interactive web app that includes:
 
 ---
 
-## 📦 Installation & Setup  
-
-1️⃣ **Clone the repository:**  
-```sh
-git clone https://github.com/your-username/fun-meme-app.git
-cd fun-meme-app
-
 
